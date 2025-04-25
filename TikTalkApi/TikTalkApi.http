@@ -1,0 +1,6 @@
+@TikTalkApi_HostAddress = http://localhost:5090
+
+GET {{TikTalkApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

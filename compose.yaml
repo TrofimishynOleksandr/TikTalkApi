@@ -1,0 +1,6 @@
+﻿services:
+  tiktalkapi:
+    image: tiktalkapi
+    build:
+      context: .
+      dockerfile: TikTalkApi/Dockerfile
